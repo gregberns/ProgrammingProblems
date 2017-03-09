@@ -6,27 +6,27 @@ Bonus points if you can do them with various styles of programming: Imperitive L
 
 ### Simple
 
-Write some code to reverse a string.
-Implement division (without using the divide operator, obviously).
+* Write some code to reverse a string.
+* Implement division (without using the divide operator, obviously).
 
-Write some code to find all permutations of the letters in a particular string.
-Count instances of letters in a string
+* Write some code to find all permutations of the letters in a particular string.
+* Count instances of letters in a string
 
 
 ### Lists
 
-Sum list of integers [http://www.codeabbey.com/index/task_view/sum-in-loop]
-Sum arrays [http://www.codeabbey.com/index/task_view/sums-in-loop]
-FizzBuzz
+* Sum list of integers [http://www.codeabbey.com/index/task_view/sum-in-loop]
+* Sum arrays [http://www.codeabbey.com/index/task_view/sums-in-loop]
+* FizzBuzz
 
 ### Sorting
 
-If you have 1 million integers, how would you sort them efficiently? (modify a specific sorting algorithm to solve this)
+* If you have 1 million integers, how would you sort them efficiently? (modify a specific sorting algorithm to solve this)
 
 
 ### Binary Tree
 
-Balance a tree
+* Balance a tree
 
 
 

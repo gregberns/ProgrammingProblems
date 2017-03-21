@@ -28,5 +28,8 @@ Bonus points if you can do them with various styles of programming: Imperitive L
 
 * Balance a tree
 
+### Graph Traversal/Optimization
+
+* Traveling Salesman
 
 

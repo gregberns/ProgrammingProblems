@@ -7,6 +7,7 @@ Bonus points if you can do them with various styles of programming: Imperitive L
 ## Sites
 
 * [Cyber-Dojo](http://www.cyber-dojo.org/)
+* [Code Kata](http://codekata.com/) - by Dave Thomas
 
 ### Simple
 

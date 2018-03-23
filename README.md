@@ -4,6 +4,10 @@ Below are some programming problems to sharpen your skills.
 
 Bonus points if you can do them with various styles of programming: Imperitive Loops, Higher Order Functions, Recursion.
 
+## Sites
+
+* [Cyber-Dojo](http://www.cyber-dojo.org/)
+
 ### Simple
 
 * Write some code to reverse a string.

@@ -6,7 +6,8 @@ You are writing a web app that will run in the Browser, Android, and iOS. Severa
 
 ### Available APIs
 ```
-function platformType() {} //returns: web, ios, android\
+//returns the platform: web, ios, android
+function platformType() {} 
 
 function openBrowserMap(link) {}
 
@@ -31,7 +32,7 @@ https://maps.apple.com/?q=${pinLabel} ${address}, ${city}, ${state}&latLng=${lat
 
 **Links On iOS**
 
-Links need to replace the prefixed: `https://` with `maps://`
+Links opened on iOS need to be prefixed with `maps://` instead of `https://`.
 
 ### On Click Event
 

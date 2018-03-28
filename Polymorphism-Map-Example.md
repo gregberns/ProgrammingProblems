@@ -27,7 +27,7 @@ https://maps.apple.com/?q=DriveTime Dealership&daddr=${address},${city},${state}
 **Location**
 
 ```
-https://maps.apple.com/?q=${pinLabel} ${address}, ${city}, ${state}&latLng=${lat},${lng}
+https://maps.apple.com/?q=${label} ${address}, ${city}, ${state}&latLng=${lat},${lng}
 ```
 
 **Links On iOS**
